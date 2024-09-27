@@ -21,4 +21,5 @@ public class PemilihanHari25 {
                 dayType = "ïnvalid day name";  
         }
         System.out.println(dayName + "is a" + dayType);
+    }
 }
